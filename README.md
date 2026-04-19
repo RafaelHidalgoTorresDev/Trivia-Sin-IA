@@ -25,3 +25,5 @@ Para responder, es obligatorio escribir la palabra RESPUESTA seguida de un espac
 Ejemplo de formato correcto: RESPUESTA a
 
 Al finalizar las 5 rondas, se mostrará el ranking definitivo y el nombre del ganador absoluto.
+
+Video Demo del proyecto: https://drive.google.com/file/d/1aX0DxGt0fa2hta3qQvfnjl8fD_XJn8kq/view?usp=sharing
