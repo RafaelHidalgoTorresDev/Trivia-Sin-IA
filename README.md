@@ -26,4 +26,4 @@ Ejemplo de formato correcto: RESPUESTA a
 
 Al finalizar las 5 rondas, se mostrará el ranking definitivo y el nombre del ganador absoluto.
 
-Video Demo del proyecto: https://drive.google.com/file/d/1aX0DxGt0fa2hta3qQvfnjl8fD_XJn8kq/view?usp=sharing
+Video Demo del proyecto: https://drive.google.com/file/d/1b6aUbEuFnnjYYDuz5kPBc4yDdPzsHqX1/view?usp=sharing
